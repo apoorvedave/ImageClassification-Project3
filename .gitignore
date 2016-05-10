@@ -1,4 +1,5 @@
 *.net
 *.zip
 .DS_Store
-.t7
+*.t7
+*.pyc
